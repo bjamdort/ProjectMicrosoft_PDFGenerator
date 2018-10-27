@@ -1,0 +1,10 @@
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\obj\Debug\PDF Report Generator.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\bin\Debug\PDF Report Generator.exe.config
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\bin\Debug\PDF Report Generator.exe
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\bin\Debug\PDF Report Generator.pdb
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\obj\Debug\PDF Report Generator.csproj.CopyComplete
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\obj\Debug\PDF Report Generator.exe
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\obj\Debug\PDF Report Generator.pdb
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\obj\Debug\PDF Report Generator.csprojAssemblyReference.cache
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\bin\Debug\IronPdf.dll
+C:\Users\gebruiker\source\repos\PDF Report Generator\PDF Report Generator\bin\Debug\IronPdf.xml
